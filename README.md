@@ -1,2 +1,1 @@
-# cdn
-CDN Repository
+# CDN Repository for NPR Dev Projects
